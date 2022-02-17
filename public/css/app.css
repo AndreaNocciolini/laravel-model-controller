@@ -1,0 +1,33 @@
+header {
+  background-color: red;
+}
+
+.header-title {
+  text-transform: uppercase;
+  font-weight: bolder;
+  border-left: 1px solid black;
+}
+
+footer {
+  background-color: gray;
+  color: white;
+}
+
+.footer-title {
+  font-size: 0.9em;
+  border-left: 1px solid red;
+}
+
+.movie-main {
+  background-color: black;
+}
+
+.movie-container {
+  width: 70%;
+  margin: 0 auto;
+}
+
+.movie-title {
+  color: red;
+}
+
